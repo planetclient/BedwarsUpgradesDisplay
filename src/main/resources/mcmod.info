@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bwupgradesdisplay",
+  "name": "Bedwars Upgrades Display",
+  "description": "Displays all obtained bedwars upgrades on the UI.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Planet Client","ztzt"],
+  "credits": "Inspired by Badlion's Bedwars Upgrades Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
